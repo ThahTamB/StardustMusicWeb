@@ -1,0 +1,20 @@
+{
+    "app.title": "Stardust Music",
+    "app.createdBy": "Created by Stardust",
+    "admin.searchPlaceholder": "Enter the song you want to listen to",
+    "admin.searchResultsTitle": "Search Results",
+    "admin.searchResultsClose": "Close",
+    "admin.currentListTitle": "Currently Playing List",
+    "admin.nextVideoButton": "Next Song",
+    "admin.addToQueueButton": "Add to Playlist",
+    "admin.moveToTopButton": "Move to Top",
+    "admin.removeButton": "Remove",
+    "admin.playingStatus": "Now Playing",
+    "admin.waitingStatus": "Waiting to Play",
+    "admin.requestedBy": "Requested by",
+    "admin.lightModeButton": "Light Mode",
+    "admin.darkModeButton": "Dark Mode",
+    "admin.switchLanguage": "Switch To Viet Nam ",
+    "admin.state": "State"
+  }
+  

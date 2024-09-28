@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Bungee+Spice&family=Nunito:wght@400;700;900&family=Roboto:wght@300&display=swap');
+body {
+  font-family: 'Nunito', sans-serif;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border: 1px solid transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 2px solid #f8f8f8;
+  background: #c4c4c4;
+  @apply rounded-full;
+}

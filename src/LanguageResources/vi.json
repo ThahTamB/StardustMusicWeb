@@ -1,0 +1,20 @@
+{
+    "app.title": "Âm nhạc Stardust",
+    "app.createdBy": "Tạo bởi Stardust",
+    "admin.searchPlaceholder": "Nhập bài hát muốn nghe",
+    "admin.searchResultsTitle": "Kết quả tìm kiếm",
+    "admin.searchResultsClose": "Đóng",
+    "admin.currentListTitle": "Danh sách đang phát",
+    "admin.nextVideoButton": "Qua bài khác",
+    "admin.addToQueueButton": "Thêm ",
+    "admin.moveToTopButton": "Đưa lên Đầu",
+    "admin.removeButton": "Xóa",
+    "admin.playingStatus": "Đang phát",
+    "admin.waitingStatus": "Chờ phát",
+    "admin.requestedBy": "Người yêu cầu",
+    "admin.lightModeButton": "Chế độ Sáng",
+    "admin.darkModeButton": "Chế độ Tối",
+    "admin.switchLanguage": "Chuyển sang tiếng Anh",
+    "admin.state": "Trạng thái"
+  }
+  
